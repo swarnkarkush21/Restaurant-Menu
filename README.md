@@ -6,8 +6,5 @@ extract Restaurant_menu.tar.gz.
 run PyQt.py file.
 for motion detector use opencv-3.1.0 based linux system.
 run  	Motion_detection using differential Image (copy).py file.
-Download Qtcreator for Music player.
-Download qtmultimedia5-dev_5.5.1-4ubuntu2_amd64.deb package.
-extract qmediaplayer.zip file and run this project in Qtcreator.
 Thats All,Best of Luck.....
 Thank You for pull git Repository.......
